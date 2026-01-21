@@ -24,10 +24,12 @@ and intelligent software engineering. My academic journey is centered around
 applied computer science, modern software development, and AI-powered systems.
 
 I have built strong foundations in:
-- Programming & Algorithms  
-- Data Analytics & Visualization  
-- Databases & Software Engineering  
-- Machine Learning & Business Intelligence  
+- Programming, Algorithms 
+- Data Analytics, Visualization & Business Intelligence  
+- Databases & Backend Systems  
+- Machine Learning & Intelligent Systems  
+- Web & Mobile Application Development  
+ 
 
 using **Python, SQL, Jupyter Notebook, Power BI, and modern development tools**.
 
@@ -39,7 +41,7 @@ using **Python, SQL, Jupyter Notebook, Power BI, and modern development tools**.
 🔹 Machine Learning & Artificial Intelligence  
 🔹 Predictive Modeling & Intelligent Systems  
 🔹 Business Intelligence & Data Visualization  
-🔹 Software Engineering  
+🔹 Web & Mobile Application Development  
 
 ---
 
