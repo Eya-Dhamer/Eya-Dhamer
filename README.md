@@ -1,5 +1,5 @@
 <h1 align="center">✨ Eya Dhamer ✨</h1>
-<h3 align="center">IT Student | Data Science • Machine Learning • Artificial Intelligence</h3>
+<h3 align="center">IT Student | Data Science • Machine Learning • Artificial Intelligence • modern Web & Mobile Software Development</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-Expert%20Path-blue?style=for-the-badge"/>
