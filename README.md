@@ -87,7 +87,7 @@ using **Python, SQL, Jupyter Notebook, Power BI, and modern development tools**.
 ## 🚀 Career Objective
 
 🎯 Aspiring **Data Scientist & AI Engineer**  
-🇫🇷 Targeting a Master’s degree in **Artificial Intelligence & Data Science in France**
+🇫🇷 Targeting a Master’s degree in **Artificial Intelligence & Data Science **
 
 My ambition is to design and deploy intelligent systems that solve real-world problems  
 through data-driven insights, predictive modeling, and advanced machine learning.
