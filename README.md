@@ -1,69 +1,74 @@
-<h1 align="center">Hi, I'm Eya Dhamer 👋</h1>
+<h1 align="center">Eya Dhamer</h1>
 <h3 align="center">IT Student | Data Science • Machine Learning • Artificial Intelligence</h3>
 
 <p align="center">
-Passionate IT student specializing in Data Science, Machine Learning, and Artificial Intelligence.  
-Strong interest in data-driven decision making, intelligent systems, and scalable software solutions.  
+Driven IT student specializing in Data Science, Machine Learning, and Artificial Intelligence.  
+Passionate about building intelligent systems, extracting insights from data,  
+and developing scalable, real-world solutions.
 </p>
 
 <p align="center">
-My academic journey is focused on applied computer science and modern software engineering.  
-I have built a solid foundation in programming, databases, data analytics, and machine learning,  
-with hands-on experience using Python, Jupyter Notebook, SQL, and Power BI.
+My academic background is focused on applied computer science and modern software engineering.  
+I have developed strong foundations in programming, data analytics, databases,  
+and machine learning through hands-on projects using Python, SQL, Jupyter Notebook, and Power BI.
 </p>
 
 <p align="center">
-I am highly motivated, continuously learning, and driven by the ambition to build impactful,  
-real-world intelligent systems.
+Highly motivated, disciplined, and constantly learning —  
+I am committed to becoming a Data Scientist and AI Engineer capable of solving complex problems  
+with data-driven intelligence.
 </p>
 
 ---
 
-### 🎯 Fields of Interest
-- Data Science & Analytics  
+## 🎯 Areas of Expertise & Interest
+
+- Data Science & Advanced Analytics  
 - Machine Learning & Artificial Intelligence  
+- Predictive Modeling & Intelligent Systems  
 - Business Intelligence & Data Visualization  
-- Intelligent Software Systems  
+- Software Engineering  
 
 ---
 
-### 🛠 Technical Skills
+## 🛠 Technical Skill Set
 
-**Programming & Data**
+### Programming & Data
 - Python, SQL, Java, C/C++
 - Pandas, NumPy, Scikit-learn  
-- Data Cleaning, Analysis & Visualization  
+- Data preprocessing, analysis, and visualization  
 
-**Machine Learning**
+### Machine Learning
 - Supervised & Unsupervised Learning  
-- Model Training & Evaluation  
-- Feature Engineering  
+- Model training, evaluation, and optimization  
+- Feature engineering  
 
-**Business Intelligence**
+### Business Intelligence
 - Power BI  
 - DAX  
-- Dashboard Design  
+- Interactive dashboard design  
 
-**Tools**
+### Development & Tools
 - Git & GitHub  
 - Jupyter Notebook  
 - VS Code  
+- Database Design  
 
 ---
 
-### 🚀 Professional Objective
+## 🚀 Career Objective
 
-Aspiring Data Scientist and AI Engineer aiming to pursue a Master’s degree in Artificial Intelligence and Data Science in France.  
-Seeking to contribute to innovative projects that leverage data and intelligence to solve complex real-world problems.
-
----
-
-### 📫 Contact
-📧 Email: **eyaaa470@gmail.com**
-
-🔗 LinkedIn:  
-https://www.linkedin.com/in/eya-dhamer-a47780347/
+Aspiring Data Scientist and AI Engineer seeking to pursue a Master’s degree in Artificial Intelligence  
+and Data Science in France. My goal is to contribute to innovative, high-impact projects  
+that transform data into intelligent decision-making systems.
 
 ---
 
-✨ *“Turning data into intelligence and ideas into impact.”*
+## 📫 Contact
+
+📧 Email: **eyaaa470@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/eya-dhamer-a47780347/
+
+---
+
+✨ *Engineering intelligence. Turning data into impact.*
