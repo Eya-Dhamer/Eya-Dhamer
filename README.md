@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 IT student specializing in **Data Science, Machine Learning, and Artificial Intelligence**  
+🎓 IT student with a strong focus on **Data Science, Machine Learning, Artificial Intelligence, and modern Web & Mobile Software Development**
 📊 Passionate about transforming data into intelligent solutions  
 🚀 Focused on building scalable, impactful, real-world systems  
 
